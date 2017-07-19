@@ -1,0 +1,17 @@
+Assignment 1
+Torry Brelsford
+829998219
+CS 356 Spring Semester
+
+Description: 
+The purpose of this assignment is to familiarize the students with the concept of block ciphers 
+and stream cipher. Block ciphers work on blocks of n bits at a time. Stream ciphers work on streams 
+one bit at a time. Your program will read in an input file and apply the algorithms described below. 
+It will then generate an output file. 
+
+4 files are contained inside tmbpa1.tar
+	-makefile
+	-P1.cpp
+	-P1.h
+	-main.cpp
+	
